@@ -2,6 +2,6 @@
 Using Histograms to mask the hand and detect fingers
 
 
-Using Histograms to mask the hand does not effect the lightining problem and also works on any skin color.
+Using Histograms to mask the hand works on any skin color and can be used in any lighting.
 
 :) 
